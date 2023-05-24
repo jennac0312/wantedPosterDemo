@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+.posterContainer{
+    border: 10px dashed red;
+    /* height: 50vh; */
+    margin: 4em;
+    background-color: yellow;
+}
+
+h1{
+    text-align: center;
+    text-decoration: overline underline;
+    font-size: 5em;
+}
+p{
+    text-align: center;
+    font-size: 4em;
+}
+
+img{
+    border: 2px solid black;
+    height:200px;
+    width: 200px;
+    margin: 0 25%;
+}
+
+.description{
+    border: 2px solid black;
+    margin: 2em
+}
+ul{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.info{
+    text-align: cenetr;
+}
+
+h2{
+    text-align: center;
+    color: green
+}
